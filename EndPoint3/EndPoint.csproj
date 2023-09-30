@@ -7,6 +7,11 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Views\Inputs\" />
+    <Folder Include="Views\Calculations\" />
+    <Folder Include="Views\Reporting\" />
+    <Folder Include="Views\PVT\" />
+    <Folder Include="Views\Option\" />
     <Folder Include="wwwroot\images\HomePages\Slider\" />
     <Folder Include="wwwroot\SiteTemplate\assets\images\menu-main\card\" />
   </ItemGroup>
